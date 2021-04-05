@@ -1,0 +1,10 @@
+.recipe-list .product-grid-item {
+    display: flex;
+    align-items: center;
+    padding: 0.25rem;
+    height: 100%;
+}
+.recipe-list .product-grid-item-content{
+    vertical-align: auto;
+    padding: 3rem;
+}
